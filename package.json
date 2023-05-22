@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "clase0805": "github:gonzagerunpaz/Parcial0805"
+  },
+  "name": "22",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
